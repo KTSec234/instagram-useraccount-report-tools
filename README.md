@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/instagram-report-tool/main/banner.png" alt="Instagram Report Tool Banner">
+  <img src="https://raw.githubusercontent.com/KTSEC234/instagram-report-tool/main/banner.png" alt="Instagram Report Tool Banner">
 </p>
 
 ## 📋 Description
