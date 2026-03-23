@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KTSEC234/instagram-report-tool/main/banner.png" alt="Instagram Report Tool Banner">
+  <img src="https://media.licdn.com/dms/image/v2/C4D10AQFXBuW1C_LKwg/image-shrink_800/image-shrink_800/0/1675433314729?e=2147483647&v=beta&t=84zKEMUUMRcJWzInmUu7oLVfv8mDsAujwcpWCwQJM4I" alt="Instagram Report Tool Banner">
 </p>
 
 ## 📋 Description
