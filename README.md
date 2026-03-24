@@ -219,7 +219,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Creator:** KUNAL
 
 - **Telegram:** [@GtCvQ_NswDxmZDVl](https://t.me/+GtCvQ_NswDxmZDVl)
-- **GitHub:** [yourusername](https://github.com/KTSec234)
+- **GitHub:** [KTSec234](https://github.com/KTSec234)
 
 ## 🙏 Acknowledgments
 
